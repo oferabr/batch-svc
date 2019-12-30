@@ -2,6 +2,10 @@
 
 simple service that proxy to other services with batch requests
 
+##start project 
+* yarn (or npm i) <br>
+* yarn start 
+
 
 ## Docs 
 
